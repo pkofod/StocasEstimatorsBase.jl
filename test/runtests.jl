@@ -1,4 +1,4 @@
-using StructuralBase
+using StocasEstimatorsBase
 using Base.Test
 
 # write your own tests here
